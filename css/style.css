@@ -1,0 +1,15 @@
+header {
+    height: 70px;
+    display: flex;
+    width: 100%;
+    background: #212521; 
+}
+
+h1 {
+    color: white;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    display: flex;
+}
